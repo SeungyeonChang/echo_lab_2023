@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+
+body {
+  color: gray;
+  background-image : url("https://mblogthumb-phinf.pstatic.net/MjAyMTA2MDJfMjY2/MDAxNjIyNjA4NzQ3NDEw.zMzmbQf4BwT7EGTVGYQfwtuubZMTRiJJUm7-l8qcYDIg.zRFoN5y_ojKu6sRiIrkI6efv9yiUK1kUmLaZw2E-yOkg.JPEG.minarigirl/%EC%8A%A4%EB%88%84%ED%94%BC1.jpg?type=w800");
+}
+h1{
+  font-weight:bold;
+  color: black;
+  font-family: 'Press Start 2P', cursive;
+  font-size : 31px;
+}
+.card-title {
+  background-color: black;
+  font-family: 'Tilt Prism', cursive;
+  text-align: center;
+}
+
+.card-body {
+  background-color: red;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  
+}
